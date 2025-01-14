@@ -13,8 +13,7 @@
 ## 📸 Ekran Görüntüleri
 📷 Uygulamadan bazı ekran görüntüleri:
 
-![Açıklama Metni](./image.png)
-
+!["Bu !go komutunun çalıştırılmış halidir."](./image.png)
 
 ---
 
