@@ -13,7 +13,8 @@
 ## 📸 Ekran Görüntüleri
 📷 Uygulamadan bazı ekran görüntüleri:
 
-!(image.png)
+![Açıklama Metni](./image.png)
+
 
 ---
 
