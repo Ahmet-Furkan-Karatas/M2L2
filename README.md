@@ -1,5 +1,5 @@
 # ⭐ POKEMON SAVAŞLARI ⭐
-**Açıklama:** Bu proje, discord uygulamasında pokemon karakterleriyle oynayıp savaş yapabilmeniz için bir discord botudur.
+**Açıklama:** Bu proje, discord uygulamasında pokemon karakterleriyle oynayıp savaş yapabilmeniz için oluşturulmuş bir discord botudur.
 
 ---
 
