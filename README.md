@@ -14,7 +14,6 @@
 📷 Uygulamadan bazı ekran görüntüleri:
 
 !(image.png)
-!(ekran_goruntusu2.png)
 
 ---
 
