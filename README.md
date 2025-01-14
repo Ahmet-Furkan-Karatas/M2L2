@@ -16,7 +16,7 @@
 
 ---
 
-## Temel komutlar
+## 🧑‍💻 Temel komutlar
 - "!go" Bu komut rastgele bir pokemon oluşturmanızı sağlar.
 - "!info" Bu komut sayesinde pokemonunuz hakkında bilgi alabilirsiniz.
 - "!feed" Bu komut pokemonunuzun canını arttırır. Fakat bu dövüşçü ya da büyücü olma durumunuza göre değişir.
